@@ -1,0 +1,14 @@
+GEM
+  specs:
+    moji (1.6)
+    mojinizer (0.2.2)
+      moji (~> 1.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mojinizer
+
+BUNDLED WITH
+   1.16.1
